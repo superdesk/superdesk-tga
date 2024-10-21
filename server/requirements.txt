@@ -327,7 +327,7 @@ werkzeug==1.0.1
     #   superdesk-core
 wrapt==1.16.0
     # via elastic-apm
-wtforms==3.1.2
+wtforms==3.2.0
     # via
     #   -r requirements.in
     #   flask-wtf
