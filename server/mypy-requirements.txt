@@ -1,4 +1,4 @@
-mypy==1.14.1
+mypy==1.15.0
 mypy-extensions==1.0
 types-Flask==1.1.6
 types-requests==2.32.0.20241016
