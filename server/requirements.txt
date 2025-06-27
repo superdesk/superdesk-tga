@@ -123,7 +123,7 @@ flask-oidc-ex==0.6.2
     # via superdesk-core
 flask-script==2.0.6
     # via superdesk-core
-flask-wtf==1.2.1
+flask-wtf==1.2.2
     # via -r requirements.in
 frozenlist==1.4.1
     # via
